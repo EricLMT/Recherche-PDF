@@ -3,7 +3,7 @@ Application de bureau en Python et Tkinter pour explorer une collection de PDF. 
 
 ## Démarrer sous Windows
 ### Depuis l'exécutable
-Le programme `RecherchePDF.exe` est accessible dans `release`.
+Le programme `RecherchePDF.exe` est accessible dans `releases`.
 Lors de la première exécution, les fichiers des modèles `Qwen3-Embedding-0.6B` et `Qwen3-0.6B` seront téléchargés dans le dossier `models/`. 
 
 ### Depuis le code source
