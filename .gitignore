@@ -1,0 +1,9 @@
+gitignore
+openai_key.txt
+openai_model.txt
+.venv/
+__pycache__/
+models/
+PDFS/
+datas/*
+!datas/bad_words.txt
